@@ -1,15 +1,29 @@
 
+h1 {
+    font-size: 40px;
+}
 
 header  {
+    background: rgb(241, 8, 8);
     text-align: center;
     margin-top: 2em;
     margin-bottom: 2em;
   }
+footer{
+    background: rgb(241, 8, 8);
+    text-align: center;
+    
+}
 
 label{
     padding-right: 2em;
+    font-size: 20px;
 }
 
 .cabeceraPagina {
     margin-bottom: 2em;
+}
+
+.subtituloPaginaPrincipal {
+    text-align: center;
 }

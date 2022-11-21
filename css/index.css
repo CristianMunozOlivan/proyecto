@@ -1,0 +1,9 @@
+.divisionFilaMain:after{
+    display: table;
+    clear: both;
+}
+.divisionMain{
+    float: left;
+  width: 33.33%;
+  padding: 15px;
+}
